@@ -1,6 +1,6 @@
-.aux 
-.div 
-.log
-.pdf 
-.gz 
+*.aux 
+*.div 
+*.log
+*.pdf 
+*.gz 
 
